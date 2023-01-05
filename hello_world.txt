@@ -1,2 +1,2 @@
 Hello World!
-This is for git status test
+This is for git status test.
